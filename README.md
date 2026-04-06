@@ -1,5 +1,4 @@
-# AI 리서치 엔지니어 김가람 포트폴리오 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Sunglasses" width="25" height="25" />
-
+# 포트폴리오 
 ## 간략 소개
 안녕하세요. `SOTA 달성 경험`과 `연구부터 프로덕션 운영까지 전반의 경험`이 있는 AI 리서치 엔지니어 김가람 입니다.
 <br>
